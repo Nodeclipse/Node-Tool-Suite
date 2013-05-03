@@ -7,6 +7,10 @@ Node Tool Suite (NTS) 0.3, May 3rd 2013
 
 by Paul Verest at Funshion.com for Nodeclipse
 
+# Distribution
+
+http://sourceforge.net/projects/nodeclipse/
+
 # Instructions
 
 0. If you don't have, get latest Node.js http://www.nodejs.org/download/
