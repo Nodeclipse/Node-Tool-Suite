@@ -1,6 +1,8 @@
 Node-Tool-Suite
 ===============
 
+![nodeclipse-logo](Nodeclipse_logo_light.png)
+
 Node Tool Suite (NTS) 0.3, May 3rd 2013
 
 by Paul Verest at Funshion.com for Nodeclipse
