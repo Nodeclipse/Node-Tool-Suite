@@ -11,6 +11,8 @@ by Paul Verest at Funshion.com for Nodeclipse
 
 http://sourceforge.net/projects/nodeclipse/
 
+Currently no plans to update NTS. Just update Nodeclipse!
+
 # Instructions
 
 0. If you don't have, get latest Node.js http://www.nodejs.org/download/
